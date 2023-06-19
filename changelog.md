@@ -1,4 +1,4 @@
-# changelog
+# Changelog
 
 [v0.20_alpha]
 
